@@ -9,5 +9,4 @@
 - This package is loaded with a bunch of **MASTER GAMES** already. Dive in and explore the wealth of chess greatness it has to offer
 - Last not the least, you can also craft **YOUR MOVES**!!😎👾
 - Check out the **R script**!
-<br>
 👑♛♚♕♝♞♜♟♖♙
